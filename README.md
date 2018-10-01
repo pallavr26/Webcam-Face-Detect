@@ -1,3 +1,5 @@
+##PLUG and PLAY face detection on video - works with cv3 
+## How to do detection,tracking, labelling of multiple objects in a cam surveillance?
 
 Webcam-Face-Detect
 ==================
